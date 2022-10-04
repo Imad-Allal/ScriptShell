@@ -1,0 +1,11 @@
+total 28
+drwxr-xr-x 2 not1txf not1txf 4096 Feb 12 17:49 .
+drwxr-xr-x 3 not1txf not1txf 4096 Feb 12 17:32 ..
+-rw-r--r-- 1 not1txf not1txf  283 Feb 12 17:14 Document numero Uno
+-rwxr-xr-x 1 not1txf not1txf  213 Feb 12 16:47 input.sh
+-rwxr-xr-x 1 not1txf not1txf  793 Feb 12 17:49 output.sh
+-rwxr-xr-x 1 not1txf not1txf   72 Feb 12 17:15 read.sh
+-rw-r--r-- 1 not1txf not1txf    0 Feb 12 17:49 stderr.txt
+-rw-r--r-- 1 not1txf not1txf    0 Feb 12 17:48 stdouterr2.txt
+-rwxrwxrwx 1 not1txf not1txf   53 Feb 12 17:48 stdouterr.txt
+-rw-r--r-- 1 not1txf not1txf    0 Feb 12 17:49 stdout.txt
